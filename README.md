@@ -13,4 +13,6 @@ This project is the back-end component of a travel agency web application, devel
 - Implemented ERD and UML diagrams.
 - Demonstrates use of OOP.
 
+---
+
 Note: This repository does not include the Angular front-end.
