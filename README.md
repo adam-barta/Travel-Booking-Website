@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a project for a Back-End Programming class in which I was provided a completed Angular front-end for a travel agency web application. The code found here comprises the completed back-end, not including the Angular front-end.
+This project is the back-end component of a travel agency web application, developed as part of a Back-End Programming class. The completed Angular front-end interacts with this back-end to provide a seamless user experience.
 
 ## Skills Developed
 - Developed RESTful API endpoints using Spring Boot and Java.
@@ -12,3 +12,5 @@ This is a project for a Back-End Programming class in which I was provided a com
 - Utilized controllers for request handling and response generation.
 - Implemented ERD and UML diagrams.
 - Demonstrates use of OOP.
+
+Note: This repository does not include the Angular front-end.
