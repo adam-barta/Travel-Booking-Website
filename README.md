@@ -1,6 +1,6 @@
 <img src="https://github.com/adam-barta/D288-PA/assets/64394877/d6759abd-9a0c-423b-af64-769ba9dad2ec" width="200" />
 
-# D288 Back-End Programming Project
+# Travel Booking Website
 
 ## Description
 
