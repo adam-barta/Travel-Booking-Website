@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is the back-end component of a travel agency web application, developed as part of a Back-End Programming class. The completed Angular front-end interacts with this back-end to provide a seamless user experience.
+This project is the back-end component of a travel agency web application. The completed Angular front-end interacts with this back-end to provide a seamless user experience.
 
 ## Skills Developed
 - Developed RESTful API endpoints using Spring Boot and Java.
